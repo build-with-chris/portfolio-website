@@ -1,7 +1,7 @@
 # Christoph Hermann – Full-Stack Engineer Portfolio
 
-Willkommen auf meiner persönlichen Portfolio-Website!
-[Portfolio Website Christoph Hermann](https://portfolio-website-christoph-hermanns-projects.vercel.app/)
+Willkommen auf meiner persönlichen 
+[Portfolio Website](https://portfolio-website-christoph-hermanns-projects.vercel.app/)
 
 Hier findest du:
 - Informationen zu meinem beruflichen Werdegang und meinen Visionen als Entwickler
